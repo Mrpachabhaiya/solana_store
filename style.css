@@ -137,7 +137,7 @@ a {
                 flex-direction: column;
                 gap: 2rem;
                 & p {
-                  font-size: 5rem;
+                  font-size: 2.5rem;
                   line-height: 1.2;
                   color: #262023;
                   font-weight: 400;
@@ -145,7 +145,7 @@ a {
                 & span {
                   text-decoration: underline;
                   color: #262023;
-                  font-size: 5rem;
+                  font-size: 2rem;
                   font-weight: 500;
                 }
               }
